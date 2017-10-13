@@ -11,7 +11,7 @@ import os
 import sys
 
 session = requests.session()
-baseURL = "https://asiandvdclub.org"
+baseURL = ""
 headers = {
     'Connection': 'keep-alive',
     'Cache-Control': 'max-age=0',
